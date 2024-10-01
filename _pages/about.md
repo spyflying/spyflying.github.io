@@ -53,7 +53,7 @@ I am currently an Associate Professor at School of Computer Science and Informat
 [Cross-Modal Omni Interaction Modeling for Phrase Grounding](https://dl.acm.org/doi/10.1145/3394171.3413846). Tianyu Yu\*, **Tianrui Hui\***, Zhihao Yu, Yue Liao, Sansi Yu, Faxi Zhang, Si Liu. ACM MM 2020. (\* Equal Contribution)
 
 # 🎖 Honors and Awards
-- *2023.07* Special Prize of President Scholarship for Postgraduate Students of Chinese Academy of Sciences. (60 students in CAS each year)
+- *2023.07* Special Prize of President Scholarship for Postgraduate Students of Chinese Academy of Sciences. (60 students in CAS that year)
 - *2021.06* Outstanding Student of University of Chinese Academy of Sciences.
 - *2020.10* Best Paper Runner-Up of PRCV 2020.
 

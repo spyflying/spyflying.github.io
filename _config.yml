@@ -22,11 +22,11 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 # Site Author
 author:
   name             : "Tianrui Hui (惠天瑞)"
-  avatar           : "images/huitr.png"
+  avatar           : "images/android-chrome-512x512.png"
   bio              : "Hefei University of Technology"
   location         : "Hefei, Anhui, China"
   employer         :
-  pubmed           : 
+  pubmed           :
   googlescholar    : "https://scholar.google.com/citations?user=ArjkrTkAAAAJ"
   email            : "huitr@hfut.edu.cn"
   researchgate     :  # e.g., "https://www.researchgate.net/profile/yourprofile"

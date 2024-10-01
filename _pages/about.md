@@ -24,18 +24,27 @@ I am currently an Associate Professor at School of Computer Science and Informat
 - *2022.02*: &nbsp;🎉🎉 One paper is accepted by CVIU 2024.
 
 # 📝 Selected Publications
+[Dynamic Prompting of Frozen Text-to-Image Diffusion Models for Panoptic Narrative Grounding](https://arxiv.org/pdf/2409.08251). Hongyu Li\*, **Tianrui Hui\***, Zihan Ding, Jing Zhang, Bin Ma, Xiaoming Wei, Jizhong Han, Si Liu. ACM MM 2024. (\* Equal Contribution)
 
-<!-- <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1"> -->
+[Modality adaptation via feature difference learning for depth human parsing](https://www.sciencedirect.com/science/article/pii/S1077314224001516). Shaofei Huang, **Tianrui Hui\#**, Yue Gong, Fengguang Peng, Yuqiang Fang, Jingwei Wang, Bin Ma, Xiaoming Wei, Jizhong Han. CVIU 2024. (\# Corresponding Author)
 
-[Dynamic Prompting of Frozen Text-to-Image Diffusion Models for Panoptic Narrative Grounding](https://arxiv.org/pdf/2409.08251). Hongyu Li\*, **Tianrui Hui\***, Zihan Ding, Jing Zhang, Bin Ma, Xiaoming Wei, Jizhong Han, Si Liu. ACM MM 2024.
+[Language-Aware Spatial-Temporal Collaboration for Referring Video Segmentation](https://ieeexplore.ieee.org/document/10013778). **Tianrui Hui**, Si Liu, Zihan Ding, Shaofei Huang, Guanbin Li, Wenguan Wang, Luoqi Liu, Jizhong Han. TPAMI 2023.
 
-[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-</div>
-</div>
+[Bridging Search Region Interaction with Template for RGB-T Tracking](https://openaccess.thecvf.com/content/CVPR2023/papers/Hui_Bridging_Search_Region_Interaction_With_Template_for_RGB-T_Tracking_CVPR_2023_paper.pdf). **Tianrui Hui**, Zizheng Xun, Fengguang Peng, Junshi Huang, Xiaoming Wei, Xiaolin Wei, Jiao Dai, Jizhong Han, Si Liu. CVPR 2023.
 
-- [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
+[Enriching Phrases with Coupled Pixel and Object Contexts for Panoptic Narrative Grounding](https://arxiv.org/pdf/2311.01091). **Tianrui Hui**, Zihan Ding, Junshi Huang, Xiaoming Wei, Xiaolin Wei, Jiao Dai, Jizhong Han, Si Liu. IJCAI 2023.
+
+[Cross-Modal Progressive Comprehension for Referring Segmentation](https://arxiv.org/pdf/2105.07175). Si Liu, Tianrui Hui, Shaofei Huang, Yunchao Wei, Bo Li, Guanbin Li. TPAMI 2022.
+
+[PPMN: Pixel-Phrase Matching Network for One-Stage Panoptic Narrative Grounding](https://arxiv.org/pdf/2208.05647). Zihan Ding, Zi-han Ding, **Tianrui Hui\#**, Junshi Huang, Xiaoming Wei, Xiaolin Wei, Si Liu. ACM MM 2022. (\# Corresponding Author)
+
+[Collaborative Spatial-Temporal Modeling for Language-Queried Video Actor Segmentation](https://arxiv.org/pdf/2105.06818). **Tianrui Hui\***, Shaofei Huang\*, Si Liu, Zihan Ding, Guanbin Li, Wenguan Wang, Jizhong Han, Fei Wang. CVPR 2021. (\* Equal Contribution)
+
+[Linguistic Structure Guided Context Modeling for Referring Image Segmentation](https://arxiv.org/pdf/2010.00515). **Tianrui Hui**, Si Liu, Shaofei Huang, Guanbin Li, Sansi Yu, Faxi Zhang, Jizhong Han. ECCV 2020.
+
+[Referring Image Segmentation via Cross-Modal Progressive Comprehension](https://arxiv.org/pdf/2010.00514). Shaofei Huang\*, **Tianrui Hui\***, Si Liu, Guanbin Li, Yunchao Wei, Jizhong Han, Luoqi Liu, Bo Li. CVPR 2020. (\* Equal Contribution)
+
+[Cross-Modal Omni Interaction Modeling for Phrase Grounding](https://dl.acm.org/doi/10.1145/3394171.3413846). Tianyu Yu\*, **Tianrui Hui\***, Zhihao Yu, Yue Liao, Sansi Yu, Faxi Zhang, Si Liu. ACM MM 2020. (\* Equal Contribution)
 
 # 🎖 Honors and Awards
 - *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 

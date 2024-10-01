@@ -17,14 +17,18 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am currently an Associate Professor at School of Computer Science and Information Engineering, Hefei University of Technology. I received my Bachelor's degree from Sun Yat-sen University in 2018 and my Ph.D. degree from Institute of Information Engineering, Chinese Academy of Sciences in 2024, supervised by [Prof. Jizhong Han](https://people.ucas.ac.cn/~hjz). I was also co-supervised by [Prof. Si Liu](https://scholar.google.com/citations?user=-QtVtNEAAAAJ) leading the [ColaLab](https://www.colalab.net/) at Beihang University from 2018 to 2024. I have published more than 20 papers in cutting-edge international conferences and journals, including TPAMI, TIP, CVPR, ECCV, ACM MM, etc. I have been awarded the Special Prize of President Scholarship for Postgraduate Students of Chinese Academy of Sciences in 2023 and the Best Paper Runner-Up of PRCV 2020. I have worked as a research intern at SenseTime and Meituan, and have been a reviewer for top conferences and journals. My research interest includes computer vision and multimedia analysis, focusing on multimodal visual perception.
+I am currently an Associate Professor at School of Computer Science and Information Engineering, Hefei University of Technology. I received my Bachelor's degree from Sun Yat-sen University in 2018 and my PhD degree from Institute of Information Engineering, Chinese Academy of Sciences in 2024, supervised by [Prof. Jizhong Han](https://people.ucas.ac.cn/~hjz). I was also co-supervised by [Prof. Si Liu](https://scholar.google.com/citations?user=-QtVtNEAAAAJ) leading the [ColaLab](https://www.colalab.net/) at Beihang University from 2018 to 2024. I have published more than 20 papers in cutting-edge international conferences and journals, including TPAMI, TIP, CVPR, ECCV, ACM MM, etc. I have been awarded the Special Prize of President Scholarship for Postgraduate Students of Chinese Academy of Sciences in 2023 and the Best Paper Runner-Up of PRCV 2020. I have worked as a research intern at SenseTime and Meituan, and have been a reviewer for top conferences and journals. My research interest includes computer vision and multimedia analysis, focusing on multimodal visual perception.
 
 # 🔥 News
 - *2024.07*: &nbsp;🎉🎉 One paper is accepted by ACM MM 2024. 
-- *2022.02*: &nbsp;🎉🎉 One paper is accepted by CVIU 2024.
+- *2024.07*: &nbsp;🎉🎉 One paper is accepted by CVIU 2024.
 
 # 📝 Selected Publications
+[Unleashing the Temporal-Spatial Reasoning Capacity of GPT for Training-Free Audio and Language Referenced Video Object Segmentation](https://arxiv.org/pdf/2408.15876). Shaofei Huang, Rui Ling, Hongyu Li, **Tianrui Hui**, Zongheng Tang, Xiaoming Wei, Jizhong Han, Si Liu.
+
 [Dynamic Prompting of Frozen Text-to-Image Diffusion Models for Panoptic Narrative Grounding](https://arxiv.org/pdf/2409.08251). Hongyu Li\*, **Tianrui Hui\***, Zihan Ding, Jing Zhang, Bin Ma, Xiaoming Wei, Jizhong Han, Si Liu. ACM MM 2024. (\* Equal Contribution)
+
+[MI$^3$C: Mining Intra-and Inter-Image Context for Person Search](https://www.sciencedirect.com/science/article/pii/S003132032300866X). Zongheng Tang, Yulu Gao, **Tianrui Hui\#**, Fengguang Peng, Si Liu. PR 2024. (\# Corresponding Author)
 
 [Modality adaptation via feature difference learning for depth human parsing](https://www.sciencedirect.com/science/article/pii/S1077314224001516). Shaofei Huang, **Tianrui Hui\#**, Yue Gong, Fengguang Peng, Yuqiang Fang, Jingwei Wang, Bin Ma, Xiaoming Wei, Jizhong Han. CVIU 2024. (\# Corresponding Author)
 
@@ -34,7 +38,9 @@ I am currently an Associate Professor at School of Computer Science and Informat
 
 [Enriching Phrases with Coupled Pixel and Object Contexts for Panoptic Narrative Grounding](https://arxiv.org/pdf/2311.01091). **Tianrui Hui**, Zihan Ding, Junshi Huang, Xiaoming Wei, Xiaolin Wei, Jiao Dai, Jizhong Han, Si Liu. IJCAI 2023.
 
-[Cross-Modal Progressive Comprehension for Referring Segmentation](https://arxiv.org/pdf/2105.07175). Si Liu, Tianrui Hui, Shaofei Huang, Yunchao Wei, Bo Li, Guanbin Li. TPAMI 2022.
+[Cross-Modal Progressive Comprehension for Referring Segmentation](https://arxiv.org/pdf/2105.07175). Si Liu, **Tianrui Hui**, Shaofei Huang, Yunchao Wei, Bo Li, Guanbin Li. TPAMI 2022.
+
+[Language-Bridged Spatial-Temporal Interaction for Referring Video Object Segmentation](https://arxiv.org/pdf/2206.03789). Zihan Ding, **Tianrui Hui**, Junshi Huang, Xiaoming Wei, Jizhong Han, Si Liu. CVPR 2022.
 
 [PPMN: Pixel-Phrase Matching Network for One-Stage Panoptic Narrative Grounding](https://arxiv.org/pdf/2208.05647). Zihan Ding, Zi-han Ding, **Tianrui Hui\#**, Junshi Huang, Xiaoming Wei, Xiaolin Wei, Si Liu. ACM MM 2022. (\# Corresponding Author)
 
@@ -47,16 +53,11 @@ I am currently an Associate Professor at School of Computer Science and Informat
 [Cross-Modal Omni Interaction Modeling for Phrase Grounding](https://dl.acm.org/doi/10.1145/3394171.3413846). Tianyu Yu\*, **Tianrui Hui\***, Zhihao Yu, Yue Liao, Sansi Yu, Faxi Zhang, Si Liu. ACM MM 2020. (\* Equal Contribution)
 
 # 🎖 Honors and Awards
-- *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2023.07* Special Prize of President Scholarship for Postgraduate Students of Chinese Academy of Sciences. (60 students in CAS each year)
+- *2021.06* Outstanding Student of University of Chinese Academy of Sciences.
+- *2020.10* Best Paper Runner-Up of PRCV 2020.
 
 # 📖 Educations
-- *2019.06 - 2022.04 (now)*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2015.09 - 2019.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-
-# 💬 Invited Talks
-- *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
-
-# 💻 Internships
-- *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
+- *2021.09 - 2024.06*, PhD, Institute of Information Engineering, Chinese Academy of Sciences, Beijing.
+- *2018.09 - 2021.06*, MEng, Institute of Information Engineering, Chinese Academy of Sciences, Beijing.
+- *2014.08 - 2018.06*, BEng, School of Computer Science and Engineering, Sun Yat-sen University, Guangzhou.

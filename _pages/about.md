@@ -62,4 +62,4 @@ I am currently a PhD candidate at Institute of Information Engineering, Chinese 
 - *2022.09 - 2025.06 (Expected)*, PhD, Institute of Information Engineering, Chinese Academy of Sciences, Beijing.
 - *2021.06 - 2022.07*, Algorithm Researcher (AI Pioneers), SenseTime Technology Co. Ltd, Beijing.
 - *2018.09 - 2021.06*, MEng, Institute of Information Engineering, Chinese Academy of Sciences, Beijing.
-- *2014.09 - 2018.07*, BEng, School of Electronics Engineering and Computer Science, Peking University, Beijing.
+- *2014.09 - 2018.07*, BS, School of Electronics Engineering and Computer Science, Peking University, Beijing.

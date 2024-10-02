@@ -6,9 +6,9 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-title                    : "Tianrui Hui"
-description              : "Associate Professor at School of Computer Science and Information Engineering, Hefei University of Technology. Research interests include computer vision and multimedia analysis."
-repository               : "RyanHTR/RyanHTR.github.io"
+title                    : "Shaofei Huang"
+description              : "PhD candidate at Institute of Information Engineering, Chinese Academy of Sciences. Research interests include autonomous driving and multimedia analysis."
+repository               : "spyflying/spyflying.github.io"
 google_scholar_stats_use_cdn : true
 
 # google analytics
@@ -21,14 +21,14 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 
 # Site Author
 author:
-  name             : "Tianrui Hui (惠天瑞)"
+  name             : "Shaofei Huang (黄少飞)"
   avatar           : "images/android-chrome-512x512.png"
-  bio              : "Hefei University of Technology"
-  location         : "Hefei, Anhui, China"
+  bio              : "Institute of Information Engineering, Chinese Academy of Sciences"
+  location         : "Beijing, China"
   employer         :
   pubmed           :
-  googlescholar    : "https://scholar.google.com/citations?user=ArjkrTkAAAAJ"
-  email            : "huitr@hfut.edu.cn"
+  googlescholar    : "https://scholar.google.com/citations?user=hVbSuo0AAAAJ"
+  email            : "nowherespyfly@gmail.com"
   researchgate     :  # e.g., "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -44,7 +44,7 @@ author:
   impactstory      : # e.g., "https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         : # e.g., "linkedin username"
-  dblp             : "https://dblp.org/pid/246/5834.html"
+  dblp             : # "https://dblp.org/pid/246/5834.html"
   orcid            : # e.g., "https://orcid.org/xxxx"
   pinterest        :
   soundcloud       :

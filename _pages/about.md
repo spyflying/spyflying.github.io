@@ -20,6 +20,8 @@ redirect_from:
 I am currently a PhD candidate at Institute of Information Engineering, Chinese Academy of Sciences. I received my Bachelor's degree from Peking University in 2018 and my Master's degree from Institute of Information Engineering, Chinese Academy of Sciences in 2021, supervised by [Prof. Jizhong Han](https://people.ucas.ac.cn/~hjz). I was also co-supervised by [Prof. Si Liu](https://scholar.google.com/citations?user=-QtVtNEAAAAJ) leading the [ColaLab](https://www.colalab.net/) at Beihang University from 2018 to now. I have published more than 15 papers in cutting-edge international conferences and journals, including TPAMI, TIP, CVPR, ECCV, ACM MM, etc. I have been awarded the Excellent Prize of President Scholarship for Postgraduate Students of Chinese Academy of Sciences and the China National Scholarship in 2020. I have worked as a research intern at SenseTime and Meituan, and have been a reviewer for top conferences and journals. My research interest includes autonomous driving and multimedia analysis, focusing on multimodal visual segmentation and detection.
 
 # 🔥 News
+- *2025.03*: &nbsp;🎉🎉 We are holding one workshop at ACM MM 2025 on Aerial-view Imaging [Call for papers](https://www.zdzheng.xyz/ACMMM2025Workshop-UAV/).
+- *2025.03*: &nbsp;🎉🎉 Two papers are accepted by CVPR 2025.
 - *2024.12*: &nbsp;🎉🎉 One paper is accepted by AAAI 2025.
 - *2024.11*: &nbsp;🎉🎉 One paper is accepted by TPAMI 2025.
 - *2024.07*: &nbsp;🎉🎉 One paper is accepted by CVIU 2024.
@@ -27,6 +29,10 @@ I am currently a PhD candidate at Institute of Information Engineering, Chinese 
 - *2024.02*: &nbsp;🎉🎉 One paper is accepted by CVPR 2024.
 
 # 📝 Selected Publications (\* Equal Contribution, \# Corresponding Author)
+Revisiting Audio-Visual Segmentation with Vision-Centric Transformer. **Shaofei Huang**, Rui Ling, Tianrui Hui, Hongyu Li, Xu Zhou, Shifeng Zhang, Si Liu, Richang Hong, Meng Wang. CVPR 2025.
+
+[LLaVA-ST: A Multimodal Large Language Model for Fine-Grained Spatial-Temporal Understanding](https://arxiv.org/abs/2501.08282). Hongyu Li, Jinyu Chen, Ziyu Wei, **Shaofei Huang**, Tianrui Hui, Jialin Gao, Xiaoming Wei, Si Liu. CVPR 2025.
+
 [Unleashing the Temporal-Spatial Reasoning Capacity of GPT for Training-Free Audio and Language Referenced Video Object Segmentation](https://arxiv.org/pdf/2408.15876). **Shaofei Huang\***, Rui Ling\*, Hongyu Li\*, Tianrui Hui, Zongheng Tang, Xiaoming Wei, Jizhong Han, Si Liu. AAAI 2025.
 
 [Anchor3DLane++: 3D Lane Detection Via Sample-Adaptive Sparse 3D Anchor Regression](https://ieeexplore.ieee.org/document/10771714). **Shaofei Huang**, Zhenwei Shen, Zehao Huang, Yue Liao, Jizhong Han, Naiyan Wang, Si Liu. TPAMI 2025.

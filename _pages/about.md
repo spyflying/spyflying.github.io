@@ -20,6 +20,7 @@ redirect_from:
 I am currently a PhD candidate at Institute of Information Engineering, Chinese Academy of Sciences. I received my Bachelor's degree from Peking University in 2018 and my Master's degree from Institute of Information Engineering, Chinese Academy of Sciences in 2021, supervised by [Prof. Jizhong Han](https://people.ucas.ac.cn/~hjz). I was also co-supervised by [Prof. Si Liu](https://scholar.google.com/citations?user=-QtVtNEAAAAJ) leading the [ColaLab](https://www.colalab.net/) at Beihang University from 2018 to now. I have published more than 15 papers in cutting-edge international conferences and journals, including TPAMI, TIP, CVPR, ECCV, ACM MM, etc. I have been awarded the Excellent Prize of President Scholarship for Postgraduate Students of Chinese Academy of Sciences and the China National Scholarship in 2020. I have worked as a research intern at SenseTime and Meituan, and have been a reviewer for top conferences and journals. My research interest includes autonomous driving and multimedia analysis, focusing on multimodal visual segmentation and detection.
 
 # 🔥 News
+- *2025.06*: &nbsp;🎉🎉 One paper is accepted by ICCV 2025.
 - *2025.03*: &nbsp;🎉🎉 We are holding a workshop at ACM MM 2025 on Aerial-view Imaging. [Call for papers](https://www.zdzheng.xyz/ACMMM2025Workshop-UAV/).
 - *2025.03*: &nbsp;🎉🎉 Two papers are accepted by CVPR 2025.
 - *2024.12*: &nbsp;🎉🎉 One paper is accepted by AAAI 2025.
@@ -29,7 +30,9 @@ I am currently a PhD candidate at Institute of Information Engineering, Chinese 
 - *2024.02*: &nbsp;🎉🎉 One paper is accepted by CVPR 2024.
 
 # 📝 Selected Publications (\* Equal Contribution, \# Corresponding Author)
-Revisiting Audio-Visual Segmentation with Vision-Centric Transformer. **Shaofei Huang**, Rui Ling, Tianrui Hui, Hongyu Li, Xu Zhou, Shifeng Zhang, Si Liu, Richang Hong, Meng Wang. CVPR 2025.
+[Video2BEV: Transforming Drone Videos to BEVs for Video-based Geo-localization](https://arxiv.org/pdf/2411.13610). Hao Ju\*, **Shaofei Huang\***, Si Liu, Zhedong Zheng. ICCV 2025.
+
+[Revisiting Audio-Visual Segmentation with Vision-Centric Transformer](https://openaccess.thecvf.com/content/CVPR2025/papers/Huang_Revisiting_Audio-Visual_Segmentation_with_Vision-Centric_Transformer_CVPR_2025_paper.pdf). **Shaofei Huang**, Rui Ling, Tianrui Hui, Hongyu Li, Xu Zhou, Shifeng Zhang, Si Liu, Richang Hong, Meng Wang. CVPR 2025.
 
 [LLaVA-ST: A Multimodal Large Language Model for Fine-Grained Spatial-Temporal Understanding](https://arxiv.org/abs/2501.08282). Hongyu Li, Jinyu Chen, Ziyu Wei, **Shaofei Huang**, Tianrui Hui, Jialin Gao, Xiaoming Wei, Si Liu. CVPR 2025.
 
@@ -64,12 +67,13 @@ Revisiting Audio-Visual Segmentation with Vision-Centric Transformer. **Shaofei 
 [Referring Image Segmentation via Cross-Modal Progressive Comprehension](https://arxiv.org/pdf/2010.00514). **Shaofei Huang\***, Tianrui Hui\*, Si Liu, Guanbin Li, Yunchao Wei, Jizhong Han, Luoqi Liu, Bo Li. CVPR 2020.
 
 # 🎖 Honors and Awards
+- *2025.03* Third Prize for Excellent Young Doctor Award, the 2nd China Embodied AI Conference (CEAI 2025).
 - *2024.06* Outstanding Student of University of Chinese Academy of Sciences.
 - *2020.12* China National Scholarship.
 - *2020.07* Excellent Prize of President Scholarship for Postgraduate Students of Chinese Academy of Sciences.
 
 # 📖 Educations and Working
-- *2022.09 - 2025.06 (Expected)*, PhD, Institute of Information Engineering, Chinese Academy of Sciences, Beijing.
+- *2022.09 - 2025.07*, PhD, Institute of Information Engineering, Chinese Academy of Sciences, Beijing.
 - *2021.06 - 2022.07*, Algorithm Researcher (AI Pioneers), SenseTime Technology Co. Ltd, Beijing.
 - *2018.09 - 2021.06*, MEng, Institute of Information Engineering, Chinese Academy of Sciences, Beijing.
 - *2014.09 - 2018.07*, BS, School of Electronics Engineering and Computer Science, Peking University, Beijing.

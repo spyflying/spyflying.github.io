@@ -21,7 +21,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 
 # Site Author
 author:
-  name             : "Shaofei Huang (黄少飞)"
+  name             : "Shaofei Huang<br>(黄少飞)"
   avatar           : "images/android-chrome-512x512.png"
   bio              : "Institute of Information Engineering, Chinese Academy of Sciences"
   location         : "Beijing, China"

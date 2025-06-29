@@ -28,7 +28,9 @@ I will join University of Macau as a Postdoctoral Researcher in October 2025, wo
 - *2024.06*: &nbsp;🎉🎉 One paper is accepted by MICCAI 2024.
 - *2024.02*: &nbsp;🎉🎉 One paper is accepted by CVPR 2024.
 
-# 📝 Selected Publications (\* Equal Contribution, \# Corresponding Author)
+# 📝 Selected Publications
+**(\* Equal Contribution, \# Corresponding Author)**
+
 [Video2BEV: Transforming Drone Videos to BEVs for Video-based Geo-localization](https://arxiv.org/pdf/2411.13610). Hao Ju\*, **Shaofei Huang\***, Si Liu, Zhedong Zheng. ICCV 2025.
 
 [Revisiting Audio-Visual Segmentation with Vision-Centric Transformer](https://openaccess.thecvf.com/content/CVPR2025/papers/Huang_Revisiting_Audio-Visual_Segmentation_with_Vision-Centric_Transformer_CVPR_2025_paper.pdf). **Shaofei Huang**, Rui Ling, Tianrui Hui, Hongyu Li, Xu Zhou, Shifeng Zhang, Si Liu, Richang Hong, Meng Wang. CVPR 2025.

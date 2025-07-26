@@ -36,7 +36,7 @@ RATopo: Improving Lane Topology Reasoning via Redundancy Assignment. Han Li, **S
 
 DOMR: Establishing Cross-View Segmentation via Dense Object Matching. Jitong Liao, Yulu Gao, **Shaofei Huang**, Jialin Gao, Jie Lei, Ronghua Liang, Si Liu. ACM MM 2025.
 
-[Video2BEV: Transforming Drone Videos to BEVs for Video-based Geo-localization](https://arxiv.org/pdf/2411.13610). Hao Ju\*, **Shaofei Huang\***, Si Liu, Zhedong Zheng. ICCV 2025.
+[Video2BEV: Transforming Drone Videos to BEVs for Video-based Geo-localization](https://arxiv.org/pdf/2411.13610). Hao Ju, **Shaofei Huang**, Si Liu, Zhedong Zheng. ICCV 2025.
 
 [Revisiting Audio-Visual Segmentation with Vision-Centric Transformer](https://openaccess.thecvf.com/content/CVPR2025/papers/Huang_Revisiting_Audio-Visual_Segmentation_with_Vision-Centric_Transformer_CVPR_2025_paper.pdf). **Shaofei Huang**, Rui Ling, Tianrui Hui, Hongyu Li, Xu Zhou, Shifeng Zhang, Si Liu, Richang Hong, Meng Wang. CVPR 2025.
 

@@ -33,9 +33,9 @@ I will join University of Macau as a Postdoctoral Researcher in October 2025, wo
 # 📝 Selected Publications
 **(\* Equal Contribution, \# Corresponding Author)**
 
-RATopo: Improving Lane Topology Reasoning via Redundancy Assignment. Han Li, **Shaofei Huang**, Longfei Xu, Yulu Gao, Beipeng Mu, Si Liu. ACM MM 2025.
+[RATopo: Improving Lane Topology Reasoning via Redundancy Assignment](https://arxiv.org/pdf/2508.15272). Han Li, **Shaofei Huang**, Longfei Xu, Yulu Gao, Beipeng Mu, Si Liu. ACM MM 2025.
 
-DOMR: Establishing Cross-View Segmentation via Dense Object Matching. Jitong Liao, Yulu Gao, **Shaofei Huang**, Jialin Gao, Jie Lei, Ronghua Liang, Si Liu. ACM MM 2025.
+[DOMR: Establishing Cross-View Segmentation via Dense Object Matching](https://arxiv.org/pdf/2508.04050). Jitong Liao, Yulu Gao, **Shaofei Huang**, Jialin Gao, Jie Lei, Ronghua Liang, Si Liu. ACM MM 2025.
 
 [Video2BEV: Transforming Drone Videos to BEVs for Video-based Geo-localization](https://arxiv.org/pdf/2411.13610). Hao Ju, **Shaofei Huang**, Si Liu, Zhedong Zheng. ICCV 2025.
 

@@ -19,6 +19,7 @@ redirect_from:
 I will join University of Macau as a Postdoctoral Researcher in October 2025, working with [Prof. Zhedong Zheng](https://www.zdzheng.xyz/). I received my Bachelor's degree from Peking University in 2018, and my Master's degree and PhD's degree from Institute of Information Engineering, Chinese Academy of Sciences in 2021 and 2025, supervised by [Prof. Jizhong Han](https://people.ucas.ac.cn/~hjz). I was also co-supervised by [Prof. Si Liu](https://scholar.google.com/citations?user=-QtVtNEAAAAJ) leading the [ColaLab](https://www.colalab.net/) at Beihang University from 2018 to now. I have published more than 15 papers in cutting-edge international conferences and journals, including TPAMI, TIP, CVPR, ECCV, ACM MM, etc. I have been awarded the Excellent Prize of President Scholarship for Postgraduate Students of Chinese Academy of Sciences and the China National Scholarship in 2020. I have worked as a research intern at SenseTime and Meituan, and have been a reviewer for top conferences and journals. My research interest includes autonomous driving and multimedia analysis, focusing on multimodal visual segmentation and detection.
 
 # 🔥 News
+- *2025.11* &nbsp;🎉🎉 One papers is accepted by TPAMI 2025.
 - *2025.07*: &nbsp;🎉🎉 Two papers is accepted by ACM MM 2025.
 - *2025.06*: &nbsp;🎉🎉 One paper is accepted by ICCV 2025.
 - *2025.03*: &nbsp;🎉🎉 We are holding a workshop at ACM MM 2025 on Aerial-view Imaging. [Call for papers](https://www.zdzheng.xyz/ACMMM2025Workshop-UAV/).
@@ -45,6 +46,8 @@ DOMR: Establishing Cross-View Segmentation via Dense Object Matching. Jitong Lia
 [Unleashing the Temporal-Spatial Reasoning Capacity of GPT for Training-Free Audio and Language Referenced Video Object Segmentation](https://arxiv.org/pdf/2408.15876). **Shaofei Huang\***, Rui Ling\*, Hongyu Li\*, Tianrui Hui, Zongheng Tang, Xiaoming Wei, Jizhong Han, Si Liu. AAAI 2025.
 
 [Anchor3DLane++: 3D Lane Detection Via Sample-Adaptive Sparse 3D Anchor Regression](https://ieeexplore.ieee.org/document/10771714). **Shaofei Huang**, Zhenwei Shen, Zehao Huang, Yue Liao, Jizhong Han, Naiyan Wang, Si Liu. TPAMI 2025.
+
+[FreeEdit: Mask-free Reference-based Image Editing with Multi-modal Instruction](https://arxiv.org/pdf/2409.18071). Runze He, Kai Ma, Linjiang Huang, **Shaofei Huang**, Jialin Gao, Xiaoming Wei, Jiao Dai, Jizhong Han, Si Liu. TPAMI 2025.
 
 [Modality adaptation via feature difference learning for depth human parsing](https://www.sciencedirect.com/science/article/pii/S1077314224001516). **Shaofei Huang**, Tianrui Hui, Yue Gong, Fengguang Peng, Yuqiang Fang, Jingwei Wang, Bin Ma, Xiaoming Wei, Jizhong Han. CVIU 2024.
 

@@ -34,9 +34,9 @@ I am currently a Postdoctoral Researcher at University of Macau, working with [P
 # 📝 Selected Publications
 **(\* Equal Contribution, \# Corresponding Author)**
 
-**Parse, Search, and Confirmation: Training-Free Aerial Vision-and-Dialog Navigation with Chain-of-Thought Reasoning and Structured Spatial Memory**. Yu Qi, Hongyu Li, **Shaofei Huang**, Tianrui Hui, Yaxiong Wang, Lechao Cheng, Zhun Zhong, Si Liu, Meng Wang. CVPR 2026
+**Parse, Search, and Confirmation: Training-Free Aerial Vision-and-Dialog Navigation with Chain-of-Thought Reasoning and Structured Spatial Memory**. Yu Qi, Hongyu Li, **Shaofei Huang**, Tianrui Hui, Yaxiong Wang, Lechao Cheng, Zhun Zhong, Si Liu, Meng Wang. CVPR 2026.
 
-[FreeEdit: Mask-Free Reference-based Image Editing with Multi-Modal Instruction](https://arxiv.org/pdf/2409.18071). Runze He, Kai Ma, Linjiang Huang, Shaofei Huang, Jialin Gao, Xiaoming Wei, Jiao Dai, Jizhong Han, Si Liu. TPAMI 2025
+[FreeEdit: Mask-Free Reference-based Image Editing with Multi-Modal Instruction](https://arxiv.org/pdf/2409.18071). Runze He, Kai Ma, Linjiang Huang, Shaofei Huang, Jialin Gao, Xiaoming Wei, Jiao Dai, Jizhong Han, Si Liu. TPAMI 2025.
 
 [RATopo: Improving Lane Topology Reasoning via Redundancy Assignment](https://arxiv.org/pdf/2508.15272). Han Li, **Shaofei Huang**, Longfei Xu, Yulu Gao, Beipeng Mu, Si Liu. ACM MM 2025.
 

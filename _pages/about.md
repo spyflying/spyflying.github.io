@@ -19,6 +19,7 @@ redirect_from:
 I am currently a Postdoctoral Researcher at University of Macau, working with [Prof. Zhedong Zheng](https://www.zdzheng.xyz/). I received my Bachelor's degree from Peking University in 2018, and my Master's degree and PhD's degree from Institute of Information Engineering, Chinese Academy of Sciences in 2021 and 2025, supervised by [Prof. Jizhong Han](https://people.ucas.ac.cn/~hjz). I was also co-supervised by [Prof. Si Liu](https://scholar.google.com/citations?user=-QtVtNEAAAAJ) leading the [ColaLab](https://www.colalab.net/) at Beihang University from 2018 to now. I have published more than 15 papers in cutting-edge international conferences and journals, including TPAMI, TIP, CVPR, ECCV, ACM MM, etc. I have been awarded the Excellent Prize of President Scholarship for Postgraduate Students of Chinese Academy of Sciences and the China National Scholarship in 2020. I have worked as a research intern at SenseTime and Meituan, and have been a reviewer for top conferences and journals. My research interest includes autonomous driving and multimedia analysis, focusing on multimodal visual segmentation and detection.
 
 # 🔥 News
+- *2026.02* &nbsp;🎉🎉 One papers is accepted by CVPR 2026.
 - *2025.11* &nbsp;🎉🎉 One papers is accepted by TPAMI 2025.
 - *2025.07*: &nbsp;🎉🎉 Two papers is accepted by ACM MM 2025.
 - *2025.06*: &nbsp;🎉🎉 One paper is accepted by ICCV 2025.
@@ -32,6 +33,10 @@ I am currently a Postdoctoral Researcher at University of Macau, working with [P
 
 # 📝 Selected Publications
 **(\* Equal Contribution, \# Corresponding Author)**
+
+**Parse, Search, and Confirmation: Training-Free Aerial Vision-and-Dialog Navigation with Chain-of-Thought Reasoning and Structured Spatial Memory**. Yu Qi, Hongyu Li, **Shaofei Huang**, Tianrui Hui, Yaxiong Wang, Lechao Cheng, Zhun Zhong, Si Liu, Meng Wang. CVPR 2026
+
+[FreeEdit: Mask-Free Reference-based Image Editing with Multi-Modal Instruction](https://arxiv.org/pdf/2409.18071). Runze He, Kai Ma, Linjiang Huang, Shaofei Huang, Jialin Gao, Xiaoming Wei, Jiao Dai, Jizhong Han, Si Liu. TPAMI 2025
 
 [RATopo: Improving Lane Topology Reasoning via Redundancy Assignment](https://arxiv.org/pdf/2508.15272). Han Li, **Shaofei Huang**, Longfei Xu, Yulu Gao, Beipeng Mu, Si Liu. ACM MM 2025.
 

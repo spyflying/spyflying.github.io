@@ -20,6 +20,7 @@ I am currently a Postdoctoral Researcher at University of Macau, working with [P
 
 # 🔥 News
 - *2026.04* &nbsp;🎉🎉 One paper is accepted by SIGIR 2026.
+- *2025.03*: &nbsp;🎉🎉 We are holding UAVM2026 workshop at ACM MM 2026 on Aerial-view Imaging. [Website](https://www.zdzheng.xyz/ACMMM2026Workshop-UAV/).
 - *2026.02* &nbsp;🎉🎉 One paper is accepted by CVPR 2026.
 - *2025.11* &nbsp;🎉🎉 One paper is accepted by TPAMI 2025.
 - *2025.07*: &nbsp;🎉🎉 Two papers are accepted by ACM MM 2025.

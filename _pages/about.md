@@ -25,7 +25,7 @@ I am currently a Postdoctoral Researcher at University of Macau, working with [P
 - *2025.11* &nbsp;🎉🎉 One paper is accepted by TPAMI 2025.
 - *2025.07*: &nbsp;🎉🎉 Two papers are accepted by ACM MM 2025.
 - *2025.06*: &nbsp;🎉🎉 One paper is accepted by ICCV 2025.
-- *2025.03*: &nbsp;🎉🎉 We are holding a workshop at ACM MM 2025 on Aerial-view Imaging. [Proceedings](https://dl.acm.org/doi/proceedings/10.1145/3728482). [Video](youtube.com/watch?v=P34VsFINRYM&feature=youtu.be).
+- *2025.03*: &nbsp;🎉🎉 We are holding UAVM2025 workshop at ACM MM 2025 on Aerial-view Imaging. [Proceedings](https://dl.acm.org/doi/proceedings/10.1145/3728482). [Video](youtube.com/watch?v=P34VsFINRYM&feature=youtu.be).
 - *2025.03*: &nbsp;🎉🎉 Two papers are accepted by CVPR 2025.
 - *2024.12*: &nbsp;🎉🎉 One paper is accepted by AAAI 2025.
 - *2024.11*: &nbsp;🎉🎉 One paper is accepted by TPAMI 2025.

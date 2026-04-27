@@ -36,7 +36,7 @@ I am currently a Postdoctoral Researcher at University of Macau, working with [P
 # 📝 Selected Publications
 **(\* Equal Contribution, \# Corresponding Author)**
 
-**Pretrain-then-Adapt: Uncertainty-Aware Test-Time Adaptation for Text-based Person Search**. Jiahao Zhang, **Shaofei Huang**, Yaxiong Wang, Zhedong Zheng. SIGIR 2026.
+[Pretrain-then-Adapt: Uncertainty-Aware Test-Time Adaptation for Text-based Person Search](https://arxiv.org/pdf/2604.08598v1). Jiahao Zhang, **Shaofei Huang**, Yaxiong Wang, Zhedong Zheng. SIGIR 2026.
 
 **Parse, Search, and Confirmation: Training-Free Aerial Vision-and-Dialog Navigation with Chain-of-Thought Reasoning and Structured Spatial Memory**. Yu Qi, Hongyu Li, **Shaofei Huang**, Tianrui Hui, Yaxiong Wang, Lechao Cheng, Zhun Zhong, Si Liu, Meng Wang. CVPR 2026.
 
@@ -92,7 +92,7 @@ I am currently a Postdoctoral Researcher at University of Macau, working with [P
 
 # 🎓 Co-supervised Students
 - [Hao Ju](https://haodot.github.io/): Ph.D candidate at University of Macau
-- [Jizheng Zhang](https://www.jizhengzhang.top/): Ph.D candidate at University of Macau
+- [Jiahao Zhang](https://nkuzjh.github.io/): Ph.D candidate at University of Macau
 
 # 📖 Educations and Working
 - *2022.09 - 2025.07*, PhD, Institute of Information Engineering, Chinese Academy of Sciences, Beijing.

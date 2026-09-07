@@ -16,9 +16,10 @@ redirect_from:
 {% assign url = gsDataBaseUrl | append: "google-scholar-stats/gs_data_shieldsio.json" %}
 
 <span class='anchor' id='about-me'></span>
-I am currently a Postdoctoral Researcher at University of Macau, working with [Prof. Zhedong Zheng](https://www.zdzheng.xyz/). I received my Bachelor's degree from Peking University in 2018, and my Master's degree and PhD's degree from Institute of Information Engineering, Chinese Academy of Sciences in 2021 and 2025, supervised by [Prof. Jizhong Han](https://people.ucas.ac.cn/~hjz). I was also co-supervised by [Prof. Si Liu](https://scholar.google.com/citations?user=-QtVtNEAAAAJ) leading the [ColaLab](https://www.colalab.net/) at Beihang University from 2018 to now. I have published more than 15 papers in cutting-edge international conferences and journals, including TPAMI, TIP, CVPR, ECCV, ACM MM, etc. I have been awarded the Excellent Prize of President Scholarship for Postgraduate Students of Chinese Academy of Sciences and the China National Scholarship in 2020. I have worked as a research intern at SenseTime and Meituan, and have been a reviewer for top conferences and journals. My research interest includes autonomous driving and multimedia analysis, focusing on multimodal visual segmentation and detection.
+I am currently an Associate Professor at Innovation School of Artificial Intelligence, Hefei University of Technology. I worked as a Postdoctoral Researcher at University of Macau  from 2025 to 2026, supervised by [Prof. Zhedong Zheng](https://www.zdzheng.xyz/). I received my Bachelor's degree from Peking University in 2018, and my Master's degree and PhD's degree from Institute of Information Engineering, Chinese Academy of Sciences in 2021 and 2025, supervised by [Prof. Jizhong Han](https://people.ucas.ac.cn/~hjz). I was also co-supervised by [Prof. Si Liu](https://scholar.google.com/citations?user=-QtVtNEAAAAJ) leading the [ColaLab](https://www.colalab.net/) at Beihang University from 2018 to now. I have published more than 20 papers in cutting-edge international conferences and journals, including TPAMI, TIP, CVPR, ECCV, ACM MM, etc. I have been awarded the Excellent Prize of President Scholarship for Postgraduate Students of Chinese Academy of Sciences and the China National Scholarship in 2020. I have worked as a research intern at SenseTime and Meituan, and have been a reviewer for top conferences and journals. My research interest includes autonomous driving and multimedia analysis, focusing on multimodal visual segmentation and detection.
 
 # 🔥 News
+- *2026.07* &nbsp;🎉🎉 One paper is accepted by ACM MM 2026.
 - *2026.04* &nbsp;🎉🎉 One paper is accepted by SIGIR 2026.
 - *2025.03*: &nbsp;🎉🎉 We are holding UAVM2026 workshop at ACM MM 2026 on Aerial-view Imaging. [Website](https://www.zdzheng.xyz/ACMMM2026Workshop-UAV/).
 - *2026.02* &nbsp;🎉🎉 One paper is accepted by CVPR 2026.
@@ -35,6 +36,8 @@ I am currently a Postdoctoral Researcher at University of Macau, working with [P
 
 # 📝 Selected Publications
 **(\* Equal Contribution, \# Corresponding Author)**
+
+[Acoustically Grounded Cost Learning for Open-Vocabulary Audio-Visual Semantic Segmentation](https://arxiv.org/pdf/2608.29121). Tianrui Hui, **Shaofei Huang\#**, Qisong Han, Yaxiong Wang, Lechao Cheng, Zhedong Zheng, Zhun Zhong, Richang Hong, Meng Wang. ACM MM 2026.
 
 [Pretrain-then-Adapt: Uncertainty-Aware Test-Time Adaptation for Text-based Person Search](https://arxiv.org/pdf/2604.08598v1). Jiahao Zhang, **Shaofei Huang**, Yaxiong Wang, Zhedong Zheng. SIGIR 2026.
 
@@ -90,11 +93,8 @@ I am currently a Postdoctoral Researcher at University of Macau, working with [P
 - *2020.12* China National Scholarship.
 - *2020.07* Excellent Prize of President Scholarship for Postgraduate Students of Chinese Academy of Sciences.
 
-# 🎓 Co-supervised Students
-- [Hao Ju](https://haodot.github.io/): Ph.D candidate at University of Macau
-- [Jiahao Zhang](https://nkuzjh.github.io/): Ph.D candidate at University of Macau
-
 # 📖 Educations and Working
+- *2025.07 - 2026.08*, PostDoc, University of Macua, Macau, China.
 - *2022.09 - 2025.07*, PhD, Institute of Information Engineering, Chinese Academy of Sciences, Beijing.
 - *2021.06 - 2022.07*, Algorithm Researcher (AI Pioneers), SenseTime Technology Co. Ltd, Beijing.
 - *2018.09 - 2021.06*, MEng, Institute of Information Engineering, Chinese Academy of Sciences, Beijing.

@@ -94,6 +94,7 @@ I am currently an Associate Professor at Innovation School of Artificial Intelli
 - *2020.07* Excellent Prize of President Scholarship for Postgraduate Students of Chinese Academy of Sciences.
 
 # 📖 Educations and Working
+- *2026.08 - *, Associate Professor, Hefei University of Technology, Hefei.
 - *2025.07 - 2026.08*, PostDoc, University of Macua, Macau, China.
 - *2022.09 - 2025.07*, PhD, Institute of Information Engineering, Chinese Academy of Sciences, Beijing.
 - *2021.06 - 2022.07*, Algorithm Researcher (AI Pioneers), SenseTime Technology Co. Ltd, Beijing.
